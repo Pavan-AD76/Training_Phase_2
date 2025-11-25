@@ -79,8 +79,3 @@ Add a Tableau or Google Data Studio link here if created.
 - Integrate real-time data using Google Analytics API
 - Deploy a live dashboard using Streamlit or Power BI
 - Perform A/B testing analysis on landing page variants
-
-
-## 📬 Contact
-
-For any questions or collaboration inquiries, feel free to reach out via GitHub or email.
